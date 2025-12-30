@@ -37,7 +37,7 @@ Berikut adalah ringkasan performa finansial seluruh cabang selama Semester 1 - 2
 Berikut adalah visualisasi dashboard untuk masing-masing cabang yang menunjukkan karakteristik unik di tiap lokasi:
 
 #### 1. Hell's Kitchen - The Revenue Leader
-![Dashboard Hell's Kitchen](revenue_hells_kithcen.png)
+![Dashboard Hell's Kitchen](revenue_hells_kitchen.png)
 * **Keterangan:** Merupakan cabang dengan **pendapatan tertinggi ($236.511)**. Lokasi ini memiliki volume transaksi yang sangat padat, menjadikannya tumpuan utama profitabilitas bisnis.
 
 #### 2. Astoria - The Stable Performer
