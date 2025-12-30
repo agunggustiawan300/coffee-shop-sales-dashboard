@@ -37,15 +37,15 @@ Berikut adalah ringkasan performa finansial seluruh cabang selama Semester 1 - 2
 Berikut adalah visualisasi dashboard untuk masing-masing cabang yang menunjukkan karakteristik unik di tiap lokasi:
 
 #### 1. Hell's Kitchen - The Revenue Leader
-![Dashboard Hell's Kitchen](HELLS_KITCHEN_DASHBOARD.png)
+![Dashboard Hell's Kitchen](revenue_hells_kithcen.png)
 * **Keterangan:** Merupakan cabang dengan **pendapatan tertinggi ($236.511)**. Lokasi ini memiliki volume transaksi yang sangat padat, menjadikannya tumpuan utama profitabilitas bisnis.
 
 #### 2. Astoria - The Stable Performer
-![Dashboard Astoria](ASTORIA_DASHBOARD.png)
+![Dashboard Astoria](revenue_astoria.png)
 * **Keterangan:** Mencatatkan pendapatan sebesar **$232.244**. Cabang ini menunjukkan tingkat konsistensi yang tinggi dan menjadi lokasi yang paling stabil dalam mempertahankan tren pemulihan sejak bulan Maret.
 
 #### 3. Lower Manhattan - The Efficiency Leader
-![Dashboard Lower Manhattan](LOWER_MANHATTAN_DASHBOARD.png)
+![Dashboard Lower Manhattan](revenue_lower_manhattan.png)
 * **Keterangan:** Meskipun secara total revenue berada di angka **$230.057**, cabang ini adalah yang **paling efisien** dengan **Average Order Value (AOV) tertinggi sebesar $4,81**. Ini mengindikasikan bahwa pelanggan di sini cenderung membeli paket bundling atau produk premium dalam satu kali transaksi.
 
 ---
