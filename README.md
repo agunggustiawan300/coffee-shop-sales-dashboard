@@ -16,21 +16,23 @@ Berikut adalah ringkasan performa finansial seluruh cabang selama Semester 1 - 2
 
 ---
 
-## 💡 Insight Utama & Analisis Mendalam
+## 💡 INSIGHT
 
-### 📈 Tren Penjualan & Pemulihan Bisnis
-* **Analisis Momentum:** Revenue dibuka pada level **$81.678 di Januari**, namun sempat mengalami koreksi sebesar **8% di Februari ($76.145)** karena faktor musiman.
-* **Fase Rebound:** Sejak titik terendah di Februari, bisnis menunjukkan pemulihan yang sangat kuat dengan tren pertumbuhan positif yang konsisten hingga mencapai **$166.486 di bulan Juni**—mencatatkan **pertumbuhan kumulatif lebih dari 118%** dalam empat bulan.
+* Revenue dibuka pada level **$81,678 di Januari**, sempat mengalami **koreksi sebesar 8% di Februari ($76,145)**, sebelum memasuki fase pemulihan dengan tren pertumbuhan positif yang konsisten sejak Maret.
 
-### 🕒 Analisis Pola Waktu (Peak Hours)
-* **Morning Commute Necessity:** Aktivitas transaksi sangat terkonsentrasi pada **jam pagi (07:00–10:00)**, dengan **puncak revenue tertinggi terjadi tepat pada pukul 10:00**. Ini mengindikasikan kopi sebagai kebutuhan utama pelanggan saat jam berangkat kerja.
-* **Operational Gap:** Revenue **melandai secara signifikan setelah pukul 10:00**, menunjukkan adanya peluang besar yang belum tergarap pada jam makan siang dan sore hari.
+* Sejak titik terendah di Februari, bisnis menunjukkan **rebound yang sangat kuat**, dengan revenue meningkat hingga **$166,486 di Juni**, mencatatkan **pertumbuhan kumulatif lebih dari 118%** dalam empat bulan.
 
-### ☕ Analisis Produk & Preferensi Pelanggan
-* **Top Performance:** Produk **Ethiopia** menjadi kontributor revenue tertinggi sebesar **$42.304**, disusul oleh **Sustainably Grown Organic ($39.065)**, menunjukkan preferensi pelanggan terhadap **kopi spesialitas dan premium**.
-* **Dominasi Kategori:** **Coffee dan Tea** merupakan kontributor utama revenue, menegaskan minuman sebagai sumber pendapatan inti bisnis, sementara kategori Bakery berperan sebagai produk pendukung.
+* Aktivitas transaksi sangat terkonsentrasi pada **jam pagi (07:00–10:00)**, dengan **puncak revenue tertinggi pada pukul 10:00**, mengindikasikan bahwa konsumsi kopi merupakan kebutuhan utama pelanggan di jam **morning commute**.
 
-### 📍 Perbandingan Kinerja Cabang (Benchmarking)
+* Produk **Ethiopia** menjadi kontributor revenue tertinggi (**$42,304**), diikuti oleh **Sustainably Grown Organic ($39,065)**, menunjukkan preferensi pelanggan terhadap kopi spesialitas dan premium.
+
+* Terdapat **gap performa yang signifikan antar lokasi**, di mana **Hell’s Kitchen ($236,511)** unggul dibandingkan Astoria dan Lower Manhattan, mengindikasikan kepadatan pelanggan dan potensi daya beli yang lebih tinggi di area tersebut.
+
+* Berdasarkan kategori produk, **Coffee dan Tea mendominasi total revenue**, menegaskan bahwa minuman merupakan sumber pendapatan utama, sementara bakery dan kategori lainnya berperan sebagai **supporting products**.
+
+---
+
+## 📍 Perbandingan Kinerja Cabang (Benchmarking)
 | Lokasi Toko | Total Revenue | Total Transaksi | AOV | Kesimpulan |
 | :--- | :---: | :---: | :---: | :--- |
 | **Hell's Kitchen** | **$236.511** | 71.737 | $4,66 | **Volume pendapatan tertinggi** |
@@ -39,14 +41,19 @@ Berikut adalah ringkasan performa finansial seluruh cabang selama Semester 1 - 2
 
 ---
 
-## 🚀 Rekomendasi Strategis Berbasis Data
+## 💡 RECOMMENDATION
 
-1. **Strategi Mitigasi Penurunan:** Melakukan evaluasi mendalam terhadap anomali di bulan Februari guna menyusun rencana **kontinjensi** untuk menghadapi faktor eksternal di periode tahun mendatang.
-2. **Optimalisasi Service Throughput:** Menerapkan **Express Line** atau penambahan barista khusus pada **jam sibuk pagi (07:00–10:00)** untuk meningkatkan kecepatan layanan dan kepuasan pelanggan.
-3. **Program "Lunch Break Combo":** Meluncurkan paket promo antara **pukul 11:00–14:00** guna mendorong transaksi di jam non-prime dan meningkatkan utilitas toko setelah jam sibuk pagi.
-4. **Peningkatan Average Order Value (AOV):** Fokus pada strategi **cross-selling** antara produk kopi premium dengan alat seduh manual atau paket bundling untuk mendorong AOV menuju target **$5,00+**.
-5. **Standardisasi Operasional:** Melakukan benchmark terhadap operasional **Hell's Kitchen** (layout dan penempatan menu) untuk diterapkan di Astoria dan Lower Manhattan guna mengangkat performa keseluruhan.
-6. **Prioritas Pengembangan Menu:** Mengingat **Coffee dan Tea adalah kontributor utama**, fokuskan pengembangan pada varian minuman (menu musiman/bundling) serta pastikan ketersediaan stok dan kesiapan operasional maksimal pada jam sibuk pagi.
+1. **Lakukan evaluasi mendalam terhadap performa Februari** untuk mengidentifikasi apakah penurunan dipengaruhi oleh faktor eksternal (musiman, cuaca, jumlah hari operasional) atau faktor internal, guna menyusun strategi mitigasi untuk periode yang sama di tahun berikutnya.
+
+2. Mengingat tingginya volume transaksi pada jam **07:00–10:00**, disarankan untuk menerapkan **Express Line atau penambahan barista khusus di jam sibuk** guna meningkatkan service throughput dan kepuasan pelanggan.
+
+3. Karena revenue melandai signifikan setelah pukul 10:00, disarankan untuk meluncurkan program **“Lunch Break Combo” atau promo khusus pukul 11:00–14:00** guna mendorong transaksi di jam non-prime.
+
+4. Manfaatkan dominasi produk **Ethiopia ($42,304)** dengan strategi **bundling kopi premium dan alat seduh manual**, serta fokuskan promosi pada Top 5 Products untuk meningkatkan Average Order Value dari **$4.69 menuju target $5.00+** melalui cross-selling di area kasir.
+
+5. **Lakukan benchmark operasional Hell’s Kitchen** (layout, kecepatan layanan, penempatan menu) untuk diterapkan di Astoria dan Lower Manhattan, guna mengangkat performa kedua cabang tersebut.
+
+6. Karena Coffee dan Tea merupakan kontributor utama revenue, prioritaskan pengembangan menu minuman (menu musiman dan bundling), serta pastikan ketersediaan stok dan kesiapan operasional pada jam sibuk pagi.
 
 ---
 
