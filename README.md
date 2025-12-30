@@ -28,7 +28,7 @@ Berikut adalah ringkasan performa finansial seluruh cabang selama Semester 1 - 2
 
 ### ☕ Analisis Produk & Preferensi Pelanggan
 * **Top Performance:** Produk **Ethiopia** menjadi kontributor revenue tertinggi sebesar **$42.304**, disusul oleh **Sustainably Grown Organic** ($39.065), menunjukkan preferensi pelanggan terhadap kopi spesialitas dan premium.
-* **Kategori Utama:** Minuman (Coffee & Tea) mendominasi total pendapatan, menegaskan minuman sebagai sumber pendapatan utama, sementara kategori Bakery berperan sebagai produk pendukung.
+* **Dominasi Kategori:** Coffee dan Tea merupakan kontributor utama revenue, menegaskan minuman sebagai sumber pendapatan inti bisnis, sementara kategori Bakery berperan sebagai produk pendukung.
 
 ### 📍 Perbandingan Kinerja Cabang (Benchmarking)
 | Lokasi Toko | Total Revenue | Total Transaksi | AOV | Kesimpulan |
@@ -46,6 +46,7 @@ Berikut adalah ringkasan performa finansial seluruh cabang selama Semester 1 - 2
 3. **Program "Lunch Break Combo":** Meluncurkan paket promo antara pukul 11:00–14:00 guna mendorong transaksi di jam non-prime dan meningkatkan utilitas toko setelah jam sibuk pagi.
 4. **Peningkatan Average Order Value (AOV):** Fokus pada strategi *cross-selling* antara produk kopi premium dengan alat seduh manual atau paket bundling untuk mendorong AOV menuju target **$5,00+**.
 5. **Standardisasi Operasional:** Melakukan benchmark terhadap operasional **Hell's Kitchen** (layout dan penempatan menu) untuk diterapkan di Astoria dan Lower Manhattan guna mengangkat performa keseluruhan.
+6. **Prioritas Pengembangan Menu:** Mengingat Coffee dan Tea adalah kontributor utama, fokuskan pengembangan pada varian minuman (menu musiman/bundling) serta pastikan ketersediaan stok dan kesiapan operasional maksimal pada jam sibuk pagi.
 
 ---
 
