@@ -5,61 +5,67 @@
 ---
 
 ## 📋 Ringkasan Proyek
-Proyek ini melakukan analisis menyeluruh terhadap performa operasional Coffee Shop di tiga lokasi utama: **Astoria, Hell's Kitchen, dan Lower Manhattan** periode Januari - Juni 2023. Dengan mengolah lebih dari 214.000 data transaksi, dashboard ini memberikan pandangan strategis mengenai tren pendapatan dan efisiensi layanan.
-
----
-
-## 🎯 Tujuan Bisnis
-* [cite_start]**Optimasi Pendapatan:** Mengidentifikasi produk unggulan dan tren pemulihan pasca penurunan di bulan Februari[cite: 7, 34, 83].
-* [cite_start]**Manajemen Operasional:** Menganalisis jam sibuk pagi hari untuk penempatan staf yang lebih efektif[cite: 13, 98, 169].
-* [cite_start]**Analisis Cabang:** Membandingkan performa antar lokasi guna menetapkan standar layanan terbaik[cite: 43, 102, 147, 213].
+[cite_start]Proyek ini merupakan hasil analisis mendalam terhadap lebih dari **214.470 transaksi** dari tiga cabang Coffee Shop utama: Astoria, Hell's Kitchen, dan Lower Manhattan selama periode Semester 1 - 2023[cite: 8]. Menggunakan Microsoft Excel dan Power Query, proyek ini mengubah data mentah menjadi wawasan bisnis yang dapat ditindaklanjuti untuk mendukung pengambilan keputusan strategis.
 
 ---
 
 ## 🔢 Indikator Kinerja Utama (KPI)
-Berdasarkan agregasi seluruh toko, berikut adalah metrik utama bisnis:
-* [cite_start]**Total Pendapatan:** $698.812 [cite: 7]
-* [cite_start]**Total Transaksi:** 214.470 [cite: 8]
-* [cite_start]**Total Produk Terjual:** 149.116 [cite: 9]
-* [cite_start]**Rata-rata Nilai Pesanan (AOV):** $4,69 [cite: 10]
+[cite_start]Berdasarkan data gabungan seluruh cabang[cite: 7, 8, 9, 10]:
+* **Total Pendapatan:** $698.812
+* **Total Transaksi:** 214.470
+* **Total Produk Terjual:** 149.116
+* **Rata-rata Nilai Pesanan (AOV):** $4,69
 
 ---
 
-## 💡 Insight Performa per Cabang (Benchmarking)
+## 💡 Analisis Performa Cabang (Deep Dive)
 
-Berikut adalah perbandingan performa antar lokasi berdasarkan visualisasi dashboard:
+Berikut adalah rincian performa untuk setiap lokasi yang dianalisis:
 
-| Lokasi Toko | Total Pendapatan | Total Transaksi | Nilai Pesanan Rata-rata (AOV) |
-| :--- | :---: | :---: | :---: |
-| **Hell's Kitchen** | [cite_start]**$236.511** [cite: 113] | [cite_start]71.737 [cite: 115] | [cite_start]$4,66 [cite: 117] |
-| **Astoria** | [cite_start]**$232.244** [cite: 62] | [cite_start]70.991 [cite: 63] | [cite_start]$4,59 [cite: 65] |
-| **Lower Manhattan** | [cite_start]**$230.057** [cite: 163] | [cite_start]**71.742** [cite: 164] | [cite_start]**$4,81** [cite: 166] |
+### 1. Hell's Kitchen (Top Revenue)
+![Hell's Kitchen](revenue_hells_kitchen.png)
+* [cite_start]**Total Revenue:** $236.511[cite: 113].
+* [cite_start]**Performa:** Merupakan kontributor pendapatan tertinggi dibandingkan cabang lainnya[cite: 113, 147].
+* [cite_start]**Produk Unggulan:** Didominasi oleh penjualan kopi Ethiopia sebagai penggerak utama[cite: 157].
 
-### 🔍 Temuan Utama:
-* [cite_start]**Pemimpin Pasar:** **Hell's Kitchen** memimpin secara keseluruhan pendapatan ($236.511), menjadikannya cabang paling produktif[cite: 113, 147].
-* [cite_start]**Efisiensi Transaksi:** Meskipun pendapatan totalnya paling rendah, **Lower Manhattan** mencatatkan **AOV tertinggi ($4,81)**, menandakan pelanggan di lokasi ini cenderung berbelanja lebih banyak per transaksi[cite: 163, 166].
-* [cite_start]**Konsistensi Produk:** Produk **Ethiopia** menjadi kontributor pendapatan nomor satu di semua lokasi[cite: 95, 157, 199].
-* [cite_start]**Pola Waktu:** Puncak transaksi terjadi secara serentak pada pukul 07:00-10:00 pagi di seluruh cabang, yang mengonfirmasi pola konsumsi "Morning Commute"[cite: 13, 120, 169].
+### 2. Astoria (Stable Performer)
+![Astoria](revenue_astoria.png)
+* [cite_start]**Total Revenue:** $232.244[cite: 62].
+* [cite_start]**Performa:** Menunjukkan tren pemulihan yang stabil sejak bulan Maret pasca penurunan di bulan Februari[cite: 83, 84].
+* [cite_start]**AOV:** Memiliki rata-rata nilai pesanan sebesar $4,59[cite: 65].
+
+### 3. Lower Manhattan (Efficiency Leader)
+![Lower Manhattan](revenue_lower_manhattan.png)
+* [cite_start]**Total Revenue:** $230.057[cite: 163].
+* [cite_start]**Performa:** Meskipun pendapatan total paling rendah, cabang ini mencatatkan **AOV Tertinggi ($4,81)**.
+* [cite_start]**Insight:** Pelanggan di lokasi ini cenderung membeli produk premium atau melakukan *bundling* dalam satu transaksi[cite: 166, 199].
 
 ---
 
-## 🚀 Rekomendasi Strategis
-* [cite_start]**Scale-up Strategi AOV:** Menerapkan taktik up-selling yang digunakan di Lower Manhattan ke cabang Astoria untuk meningkatkan rata-rata belanja pelanggan[cite: 65, 166].
-* [cite_start]**Optimalisasi Staf:** Fokuskan penambahan barista pada jam 07:00–10:00 pagi untuk menjaga kecepatan layanan (throughput)[cite: 13, 120, 212].
-* [cite_start]**Promosi Jam Non-Sibuk:** Meluncurkan paket "Lunch Break Combo" setelah pukul 11:00 untuk mengisi penurunan volume transaksi siang hari[cite: 13, 169].
+## 🧠 Keahlian Analisis Data yang Ditunjukkan
+
+### 1. Data Cleaning & Transformation (Power Query)
+* Melakukan pembersihan data pada 214k+ baris transaksi.
+* [cite_start]Transformasi data tanggal dan waktu untuk mengekstraksi analisis "Peak Hours"[cite: 13, 98, 120, 169].
+* Menangani inkonsistensi penamaan produk dan kategori.
+
+### 2. Data Modeling & Analysis
+* Menggunakan **Pivot Tables** untuk agregasi data multi-dimensi (waktu, lokasi, dan kategori produk).
+* [cite_start]Menghitung metrik khusus seperti *Average Order Value* (AOV) untuk mengukur efisiensi penjualan di tiap toko[cite: 10, 65, 117, 166].
+
+### 3. Business Intelligence & Storytelling
+* [cite_start]**Analisis Jam Sibuk:** Mengidentifikasi puncak transaksi pada pukul 07:00–10:00 yang menunjukkan perilaku pelanggan *morning commute*[cite: 13, 120].
+* [cite_start]**Analisis Portofolio Produk:** Menemukan bahwa Coffee dan Tea adalah sumber pendapatan utama, dengan Ethiopia sebagai produk spesifik terlaris[cite: 38, 89, 148, 197].
 
 ---
 
-## 🛠️ Detail Teknis
-
-| **Aspek** | **Keterangan** |
-| :--- | :--- |
-| **Alat yang Digunakan** | Microsoft Excel, Power Query |
-| **Tipe Visualisasi** | Line Chart, Clustered Column Chart, KPI Cards, Slicers |
-| **Pemodelan Data** | Pivot Tables & Multi-source Data Aggregation |
+## 🚀 Rekomendasi Strategis Berbasis Data
+1. [cite_start]**Optimalisasi Shift:** Menambah jumlah staf di jam 07:00–10:00 pagi untuk mempercepat layanan[cite: 13, 98, 169].
+2. [cite_start]**Program Retensi Siang Hari:** Meluncurkan promo "Lunch Break Combo" setelah pukul 11:00 untuk menutupi penurunan transaksi siang hari[cite: 13, 169].
+3. [cite_start]**Penyebaran Produk Premium:** Mereplikasi strategi penjualan Lower Manhattan (AOV tertinggi) ke cabang Astoria dan Hell's Kitchen melalui teknik *upselling* kopi premium[cite: 166, 209].
 
 ---
 
 ### 🏁 Penulis
 **Dibuat oleh:** Agung Gustiawan  
-⭐ *Jika proyek ini bermanfaat, berikan "Star" pada repositori ini!*
+⭐ *Terima kasih telah berkunjung! Berikan Star jika kamu menyukai proyek ini.*
